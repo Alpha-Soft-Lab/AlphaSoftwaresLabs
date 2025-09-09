@@ -7,7 +7,6 @@
 - 🛒 **E-commerce Solutions** – Custom online stores with secure checkout  
 - ⚡ **Web Applications** – Fast, user-friendly, and tailored to client needs  
 - 🔌 **APIs & Integrations** – Scalable backend systems and third-party services  
-- ☁️ **Deployment** – Netlify, Render, Vercel, and cloud hosting  
 
 
 ## 📫 Let’s Connect  
